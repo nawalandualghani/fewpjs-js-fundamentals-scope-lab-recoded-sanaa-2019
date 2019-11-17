@@ -14,8 +14,8 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  const tow=2;
-  return n + two
+  const tow =2;
+  return n + two;
 
   // Feel free to move things around!
   // two = 2
